@@ -37,17 +37,25 @@
 4. Maintenant que vous avez cliqué sur l'archive du client ***Luanti***, cette action vous menera directement dans la page ***téléchargements*** de votre ordinateur. Il faudra par la suite extraire tout le contenu de votre archive dans votre ordinateur directement avec une extension nommée *==zip7==*. 
 
 
---->*Voici une vidéo pour une meilleure compréhension de la prochaine étape.* 
-![[2025-09-15 15-23-41.mkv]]
+--->*Voici une série d'images pour une meilleure compréhension de l'étape 4.* 
+![[Pasted image 20250919125727.png]]
+
+*--->On clique sur extraire (peut être partout dans votre ordinateur).*
+![[Pasted image 20250919125804.png]]
 
 
 ![[2025-09-15 15-17-31.mkv]]
 
 5. Par la suite, vous devez fouillez dans le dossier du client Luanti pour pour repéré un fichier nommé ==***Luanti.exe***==. Ce ficher est en fait l'application ***Luanti*** qui vous permettra d'y jouer. Normalement, le fichier en question se retrouve dans le dossier bin directement.
 
---->*Voici une vidéo efficace qui vous montre directement quoi faire:*
-![[2025-09-15 15-29-48.mkv]]
+--->*Série de photos qui vous montre où se situe Luanti.exe: On clique tout d'abord sur le dossier téléchargé **Luanti-5.13.0-win64***:
+![[Pasted image 20250919124334.png]]
 
+Par la suite, cliquer sur le fichier bin, c'est là que se trouvera le lancer ***Luanti.exe***:
+![[Pasted image 20250919124354.png]]
+
+Finalement, vous trouverez bel et bien Luanti.exe un peu plus bas dans le dossier bin. Vous n'avez qu'à cliquer dessus et le tour est joué:
+![[Pasted image 20250919124417.png]]
 6.  Félicitations, vous pouvez maintenant lancer ***Luanti.exe*** et commencer à jouer !
 
 
@@ -63,15 +71,17 @@
 5. Savourez ***Mineclonia*** !
 
 --->*Voici une vidéo efficace qui vous montre directement quoi faire:*
-![[2025-09-15 16-11-18.mkv]]
+![[z2025-09-15 16-11-18.mkv]]
 
 
 ## Connexion à un serveur Mineclonia distant
 
 ##### Étapes connexion serveur distant:
 1. Ouvrez ***Luanti*** grâce à ***==Luanti.exe==***.
-2. Dans le menu principal, cliquez sur **Rejoindre un jeu**.
-3. Inscrivez vous en choisissant un nom d'utilisateur *(Par exemple user1 ou Jean Peuplu)* et un mot de passe.
+![[Pasted image 20250919140004.png]]
+2. Dans le menu principal, cliquez sur **Rejoindre une partie**.
+![[Pasted image 20250919140030.png]]
+3. Inscrivez-vous en choisissant un nom d'utilisateur *(Par exemple user1 ou Jean Peuplu)* et un mot de passe.
 4. Confirmer votre mot de passe.
 5. Cliquez tout simplement sur **s'inscrire**.
 
@@ -83,17 +93,17 @@
 8. Tapez votre **nom d’utilisateur** et choisissez un **mot de passe** qui vous convient (vous en créerez un si c’est la première connexion).
 9. Cliquez sur **Connexion** pour entrer dans le serveur.
 
-*---> Photo qui vous montres ==les étapes de 6 à 9 précisément==. Vous pouvez remarquer le nom du domaine Taonza.minetest.land et le port 30000 mis plus haut.*
+*---> Photo qui vous montres ==les étapes de 6 à 9 précisément==. Vous pouvez remarquer le nom du domaine Taonza.minetest.land et le port 30000 mis plus haut:*
 ![[Screenshot 2025-09-15 164006.png]]
 
 10. Vous verrez par la suite une page de téléchargement du domaine en cours et boom, voilà! Vous pouvez maintenant jouer sur un domaine Mineclonia!
 
-*---> Photo que j'ai pris sur le domaine en question*.
+*---> Photo que j'ai pris sur le domaine en question*:
 ![[Screenshot 2025-09-15 164054.png]]
 
 
-*--->Voici une vidéo explicative complète explicative de ==toutes les étapes de 1 à 10.==*
-![[2025-09-16 11-15-40.mkv]]
+*--->Voici une vidéo explicative complète explicative de ==toutes les étapes de 1 à 10:==*
+![[z2025-09-16 11-15-40.mkv]]
 
 
 ## Diagramme de réseau, connexion pour serveur 
@@ -103,7 +113,11 @@ Lorsqu'un utilisateur se connecte à un serveur **Mineclonia** distant, plusieur
 ##### Les composantes du diagramme de réseau:
 
 1. **Ordinateur de l'utilisateur** : C'est l'appareil à partir duquel vous vous connectez au serveur. Il envoie des requêtes pour accéder au serveur ***Mineclonia***. Votre ordinateur *Mac* ou *Asus* en fait.
+*---> Exemple ordinateur Asus*:
+![[Pasted image 20250919140659.png]]
 2. **Routeur** : Le routeur est en fait un dispositif électronique qui permet de diriger le trafic de données entre votre ordinateur et Internet *(World Wide Web)*. ==Il permet de connecter plusieurs appareils à un réseau local==.
+*--->Exemple de routeur*:
+![[Pasted image 20250919140916.png]]
 3. **Fournisseur d'accès Internet (FAI)** : Le *FAI* est l'entreprise qui fournit l'accès à Internet. Il permet de vous connecter au réseau mondial. On peut par exemple avoir *Vidéotron, Roger, Bell*, etc.
 4. **Serveur Mineclonia** : C'est l'ordinateur distant qui héberge le jeu. ==Il reçoit vos requêtes,== traite les informations et renvoie les données nécessaires pour que vous jouez.
 5. **Internet** : C'est le réseau mondial qui relie tous les ordinateurs et serveurs. Les données voyagent à travers ce réseau pour atteindre leur destination.
