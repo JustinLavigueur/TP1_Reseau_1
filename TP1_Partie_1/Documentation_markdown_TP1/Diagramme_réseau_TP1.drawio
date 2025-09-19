@@ -1,0 +1,69 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.1.2">
+  <diagram name="Page-1" id="c37626ed-c26b-45fb-9056-f9ebc6bb27b6">
+    <mxGraphModel dx="4077" dy="2356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eTjHM__aoCHBL6GUuSuT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6Mx1uFycC5jE5Y7Wsfa_-6" target="6Mx1uFycC5jE5Y7Wsfa_-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTjHM__aoCHBL6GUuSuT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Mx1uFycC5jE5Y7Wsfa_-6" target="eTjHM__aoCHBL6GUuSuT-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="170" />
+              <mxPoint x="700" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Mx1uFycC5jE5Y7Wsfa_-6" value="&lt;font style=&quot;font-size: 58px;&quot;&gt;INTERNET&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 58px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(FAI)&lt;/span&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="-340" width="630" height="449" as="geometry" />
+        </mxCell>
+        <mxCell id="eTjHM__aoCHBL6GUuSuT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Mx1uFycC5jE5Y7Wsfa_-17" target="6Mx1uFycC5jE5Y7Wsfa_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Mx1uFycC5jE5Y7Wsfa_-17" value="&lt;div&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;Serveur Minetest ou Mineclonia&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;(Adresse IP du serveur + Port ex.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;&amp;nbsp;198.51.100.25:30000)&lt;/font&gt;&lt;/div&gt;" style="shape=mxgraph.cisco.servers.fileserver;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1550" y="-60" width="130" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="eTjHM__aoCHBL6GUuSuT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eTjHM__aoCHBL6GUuSuT-1" target="6Mx1uFycC5jE5Y7Wsfa_-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="150" />
+              <mxPoint x="700" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTjHM__aoCHBL6GUuSuT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eTjHM__aoCHBL6GUuSuT-1" target="eTjHM__aoCHBL6GUuSuT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTjHM__aoCHBL6GUuSuT-1" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;Routeur (chez moi)&lt;/span&gt;" style="shape=mxgraph.cisco.routers.10700;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="280" width="300" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="eTjHM__aoCHBL6GUuSuT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-240" y="415" as="sourcePoint" />
+            <mxPoint x="530" y="380.00000000000045" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="415" />
+              <mxPoint x="130" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTjHM__aoCHBL6GUuSuT-6" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Wifi (sans câble) ou câble internet&lt;/font&gt;&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTjHM__aoCHBL6GUuSuT-5">
+          <mxGeometry x="-0.184" y="4" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTjHM__aoCHBL6GUuSuT-7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTjHM__aoCHBL6GUuSuT-5">
+          <mxGeometry x="0.795" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTjHM__aoCHBL6GUuSuT-3" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;Mon PC&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;(client Minetest ou Mineclonia)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="shape=mxgraph.cisco.computers_and_peripherals.pc;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="310" width="270" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
